@@ -1,0 +1,23 @@
+{
+  "name": "Parallax-Website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganchoiliev/Parallax-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganchoiliev/Parallax-Website/issues"
+  },
+  "homepage": "https://ganchoiliev.github.io//Parallax-Website",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
